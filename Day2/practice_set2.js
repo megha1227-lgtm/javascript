@@ -60,5 +60,5 @@
 //4 Mini Business Logic 
 
 function rate(totalBudget ,hourlyRate){
-    const fullDays= 
+  
 }
